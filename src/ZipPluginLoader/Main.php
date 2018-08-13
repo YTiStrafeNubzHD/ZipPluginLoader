@@ -2,6 +2,7 @@
 namespace ZipPluginLoader;
 use pocketmine\plugin\PluginBase;
 use pocketmine\plugin\PluginLoadOrder;
+
 class Main extends PluginBase {
 	const LOADER = "ZipPluginLoader\\ZipPluginLoader";
 	public function onEnable() : void{
