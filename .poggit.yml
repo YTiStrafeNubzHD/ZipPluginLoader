@@ -1,6 +1,6 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ZPlayzMCPE/ZipPluginLoader
 branches:
-- patch-2
+- patch-1
 projects:
   ZipPluginLoader:
     path: ""
